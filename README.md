@@ -126,10 +126,11 @@ We are forming a commission to define best practices for UI/UX design for browse
 
 ## Citation
 
-If you use Browser Use in your research or project, please cite:
+If you use Browser Use in your research or project, please mention and give credits
 
 
  
+<br/><br/>
 
 <div align="center">
 Made for with ❤️ from Abhijeet
