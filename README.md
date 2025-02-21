@@ -189,16 +189,17 @@ If you use Browser Use in your research or project, please cite:
 ```
  
 
-
+```
  <div align="center"> <img src="https://github.com/user-attachments/assets/402b2129-b6ac-44d3-a217-01aea3277dce" width="400"/> 
  
 [![Twitter Follow](https://img.shields.io/twitter/follow/Gregor?style=social)](https://x.com/gregpr07)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Magnus?style=social)](https://x.com/mamagnus00)
  
  </div> 
+```
 
 <div align="center">
-Made with ❤️ in Zurich and San Francisco
+Made for with ❤️ from Abhijeet
  </div> 
 
 
