@@ -8,6 +8,7 @@
 💡 See what others are building and share your projects in our [Discord](https://link.browser-use.com/discord) - we'd love to see what you create!
 
 
+<br/><br/>
 
 # Quick start
 
@@ -133,7 +134,7 @@ If you use Browser Use in your research or project, please mention and give cred
 <br/><br/>
 
 <div align="center">
-Made for with ❤️ from Abhijeet
+Made with ❤️ from Abhijeet
  </div> 
 
 
